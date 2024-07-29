@@ -1,0 +1,4 @@
+{
+  "pkgs": ["python39", "pip"],
+  "entrypoint": "python server.py"
+}
